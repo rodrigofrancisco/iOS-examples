@@ -1,0 +1,25 @@
+{
+  "configurations" : [
+    {
+      "id" : "90078F03-FF21-4A56-B320-8CA3D2DCC36E",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:EssentialFeedAPI.xcodeproj",
+        "identifier" : "6DE8ABDE2CEBB7C6003F118D",
+        "name" : "EssentialFeedAPITests"
+      }
+    }
+  ],
+  "version" : 1
+}

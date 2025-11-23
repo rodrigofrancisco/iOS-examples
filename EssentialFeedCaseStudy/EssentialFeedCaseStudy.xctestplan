@@ -1,0 +1,25 @@
+{
+  "configurations" : [
+    {
+      "id" : "AC8162C1-0651-4825-BDE2-F87084C7BDF6",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:EssentialFeedCaseStudy.xcodeproj",
+        "identifier" : "6D9DDD522CDADB0C00EE53E6",
+        "name" : "EssentialFeedCaseStudyTests"
+      }
+    }
+  ],
+  "version" : 1
+}

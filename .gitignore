@@ -57,12 +57,10 @@ Carthage/Build/
 ### SwiftPackageManager ###
 Packages
 xcuserdata
-*.xcodeproj
 
 ## Xcode 8 and earlier
 
 ### Xcode Patch ###
-*.xcodeproj/*
 !*.xcodeproj/project.pbxproj
 !*.xcodeproj/xcshareddata/
 !*.xcodeproj/project.xcworkspace/

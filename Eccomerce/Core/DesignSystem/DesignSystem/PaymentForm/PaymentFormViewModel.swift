@@ -1,0 +1,11 @@
+//
+//  PaymentFormViewModel.swift
+//  CheckoutFeature
+//
+//  Created by Rodrigo Francisco on 29/11/23.
+//
+
+public struct PaymentFormViewModel {
+    public let cardName: String
+    public let lastCardDigits: String
+}

@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "181CA787-29D5-49C6-836B-E16F81E92236",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:CustomNavigationBard.xcodeproj",
+      "identifier" : "6D7DA32D2CF53E1C00045D4C",
+      "name" : "CustomNavigationBard"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:CustomNavigationBard.xcodeproj",
+        "identifier" : "6D76E3F62D26482700C85A26",
+        "name" : "CustomNavigationBarTests"
+      }
+    }
+  ],
+  "version" : 1
+}
