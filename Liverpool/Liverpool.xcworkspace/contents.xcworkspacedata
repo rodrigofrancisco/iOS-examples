@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:"
+      name = "Apps">
+      <FileRef
+         location = "group:Apps/Suburbia/Suburbia.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Liverpool.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Features">
+      <FileRef
+         location = "group:Features/ShoppingBag/ShoppingBag.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Features/AirtimeFeature/AirtimeFeature.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Features/CheckoutFeature/CheckoutFeature.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "CoreUI">
+      <FileRef
+         location = "group:CoreUI/SharedComponents/SharedComponents.xcodeproj">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
